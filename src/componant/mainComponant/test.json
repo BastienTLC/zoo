@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "siteweb": "jeanmichelcrapo.ru",
+    "name": "Zoo 1",
+    "taille": 148,
+    "prix": 6,
+    "adresse": "rue des chat",
+    "pays": 69
+  },
+  {
+    "id": 2,
+    "siteweb": "j'aimelesrobinets.com",
+    "name": "Zoo 2",
+    "taille": 47,
+    "prix": 41,
+    "adresse": "rue des robinets",
+    "pays": 69
+  },
+  {
+    "id": 3,
+    "siteweb": "pas-net.net",
+    "name": "Zoo troa",
+    "taille": 169,
+    "prix": 2.69,
+    "adresse": "rue des arbres",
+    "pays": 69
+  }
+]

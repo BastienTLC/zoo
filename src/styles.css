@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  background-color: lightgray
+}
+
+.Header {
+  background-color: lightgray;
+}
+.Main {
+  background-color: lightgray;
+}
+
+.contenu {
+  background-color: blue;
+}
+
+.NavBar {
+  background-color: lightgrey;
+  position: fixed;
+  height: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  width: 15%;
+}
+.AdminList {
+  margin: 0;
+  padding: 0;
+  line-height: 50px;
+  list-style: none;
+}
+.AdminList li {
+  display: block;
+  background-color: gray;
+  padding: 8px 8px 8px 32px;
+  border: solid;
+  text-decoration: none;
+}
+.AdminList li:hover {
+  background-color: darkgrey;
+}
+.Zoo {
+  background-color: rgb(249, 249, 249);
+}
+.Data {
+  background-color: blueviolet;
+}
+
+.divelem {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
